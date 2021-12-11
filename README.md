@@ -4,30 +4,12 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+# 프로젝트 진행
 
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
+우선 깃허브를 처음 사용하기 때문에 처음 수업을 따라가는데에 있어서 어려운 부분이 존재 했다. 교수님이 올려주신 녹화영상을 여러번 돌려보고 구글링도 해가면서 이번 기말 프로젝트인 블로그 만들기를 진행하였다. 깃허브에서 레포를 만들고 파일을 올리는 것은 여러번 해봐서 어느정도 알겠지만 로컬에서 커밋을 하고 푸쉬를 하는 이러한 것들은 새로운 부분이라 어려웠다. 우선 여러번 테스트를 진행하여 블로그 만드는 것에 적응하기로 했다. 블로그를 만들어서 테마적용 시키는 테스트, 블로그를 만들고 포스팅하는 테스트 등 여러가지 블로그를 만드는데 필요한 과정을 여러번 해보면서 깃허브와 로컬에서 커밋, 푸쉬하는 것들에 적응을 하였다.
 
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
+## 테마:Monos
+이 테마를 선택한 이유는 보기에 편한 부분도 있고 옆에 카테고리별로 나눠져서 카테고리를 누름으로서 포스팅된 글을 골라서 볼 수 있다. 그리고 다른테마들을 여러번 테스트를 했는데 테마 적용중에 오류가 많이 나왔었지만 이테마는 오류도 없어서 이것을 선택했다.
 
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
+
+
