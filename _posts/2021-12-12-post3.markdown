@@ -1,0 +1,11 @@
+---
+layout: post
+title: post-Markdown
+date: 2021-12-12 02:31:23 +0900
+category: post
+comments: true
+---
+# post-github
+## 깃허브(Github)에 대해
+
+깃허브(Github)는 버전 관리와 협업을 위한 코드 호스팅 플랫폼이다. 언제나 어디서나 협업 프로젝트를 쉽게 진행할 수 있도록 돕는 것이다.
