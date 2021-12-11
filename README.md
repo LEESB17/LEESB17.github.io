@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+comment: true
 ---
 
 # 프로젝트 진행
