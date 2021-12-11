@@ -2,7 +2,7 @@
 layout: post
 title: post-Markdown
 date: 2021-12-11 19:08:23 +0900
-category: update
+category: post
 ---
 # post-Markdown
 ## 마크다운(Markdown)에 대해서
